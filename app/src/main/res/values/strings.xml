@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAV</string>
+    <string name="fromHint">Honnan</string>
+    <string name="toHint">Hova</string>
+    <string name="search">Keresés</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
